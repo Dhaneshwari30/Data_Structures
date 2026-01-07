@@ -12,11 +12,13 @@ Doubly Linear                DoublyLLLnode                           DoublyLLL
 Doubly Circular              DoublyCLLnode                           DoublyCLL
 --------------------------------------------------------------------------------------------------------------------
 */
+/////////////////////////////////////////////////////////////////////
+                        Header Files
+/////////////////////////////////////////////////////////////////////
 
 #include<iostream>
 using namespace std;
 
-// function name , input, output, description, date, name
 /////////////////////////////////////////////////////////////////////
 //         Singly Linear LinkedList using Generic Approach
 /////////////////////////////////////////////////////////////////////
